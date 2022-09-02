@@ -2,4 +2,8 @@
 Create a "Person" class
 */
 
-void main() {}
+class Person {}
+
+void main() {
+  Person x = Person();
+}
